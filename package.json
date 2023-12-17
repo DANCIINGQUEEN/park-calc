@@ -1,0 +1,14 @@
+{
+  "name": "park-calc",
+  "version": "1.0.0",
+  "description": "Calculator that inputs resignation calculations as strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calc"
+  ],
+  "author": "danciingqueen",
+  "license": "ISC"
+}
